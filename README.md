@@ -1,3 +1,6 @@
+# Link do artigo
+https://web.dio.me/articles/conectando-o-futuro-a-revolucao-das-cidades-inteligentes-impulsionada-pela-iot?back=%2Farticles&page=1&order=oldest
+
 # ArtigoDIO
 Entrega de Artigo para o curso chatGPT for devs da DIO
 
